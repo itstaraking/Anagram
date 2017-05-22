@@ -1,0 +1,6 @@
+C:\Users\MRSWHITE\Desktop\CSC 253\AnagramCSharp\AnagramCSharp\bin\Debug\AnagramCSharp.exe.config
+C:\Users\MRSWHITE\Desktop\CSC 253\AnagramCSharp\AnagramCSharp\bin\Debug\AnagramCSharp.exe
+C:\Users\MRSWHITE\Desktop\CSC 253\AnagramCSharp\AnagramCSharp\bin\Debug\AnagramCSharp.pdb
+C:\Users\MRSWHITE\Desktop\CSC 253\AnagramCSharp\AnagramCSharp\obj\Debug\AnagramCSharp.csprojResolveAssemblyReference.cache
+C:\Users\MRSWHITE\Desktop\CSC 253\AnagramCSharp\AnagramCSharp\obj\Debug\AnagramCSharp.exe
+C:\Users\MRSWHITE\Desktop\CSC 253\AnagramCSharp\AnagramCSharp\obj\Debug\AnagramCSharp.pdb
