@@ -1,0 +1,23 @@
+# give user instruction
+print("I can tell you if 2 words are anagrams of each other");
+
+# get first word from user
+one = (input("Enter the first word: "));
+
+# get the second word
+two = (input("Enter the second word: "));
+
+# convert the input to character arrays by passing to a list
+newOne = list(one);
+newTwo = list(two);
+
+# sort the character arrays
+newOne.sort();
+newTwo.sort();
+
+# compare the strings
+if newOne == newTwo:
+    print("The words are anagrams!")
+else:
+    print("They are not anagrams :(")
+
