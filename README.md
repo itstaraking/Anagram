@@ -1,5 +1,5 @@
 # Anagram
-An anagram is a word or phrase that is formed when two words or phrases, when rearranged, are found to contain the same letters. For example, "Astronaut" and "Unto a star" are anagrams of each other. I took this on as a programming challenge using simple code. Here is the program output...
+An anagram is a word or phrase that is formed when two words or phrases, when rearranged, are found to contain the same letters. For example, "Astronaut" and "Unto a star" are anagrams of each other. I took this on as a programming challenge using simple code.
 
 ### Here is a snippet of the code 
 
