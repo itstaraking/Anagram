@@ -3,12 +3,12 @@ An anagram is a word or phrase that is formed when two words or phrases, when re
 
 ### Here is a snippet of the code 
 
-![FizzBuzzCode](https://itstaraking.github.io/Anagram/AnagramCSharp/AGCode.png)
+![AnagramCode](https://itstaraking.github.io/Anagram/AnagramCSharp/AGCode.png)
 
 ### Here is an example of output...
 
-![FizzBuzzOutput](https://itstaraking.github.io/Anagram/AnagramCSharp/AGImageyes.png)
+![AnagramOutput](https://itstaraking.github.io/Anagram/AnagramCSharp/AGImageyes.png)
 
 ### And another example of output...
 
-![FizzBuzzOutput](https://itstaraking.github.io/Anagram/AnagramCSharp/AGImageno.png)
+![AnagramOutput2](https://itstaraking.github.io/Anagram/AnagramCSharp/AGImageno.png)
